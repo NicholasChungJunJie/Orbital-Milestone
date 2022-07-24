@@ -1,4 +1,4 @@
-# Feature implemented for testing in milestone 3
+# Features implemented for testing in milestone 3
 
 ## Appeal Page
 
@@ -24,8 +24,34 @@ Once that is done, run `npm/yarn install` to install the dependencies in this ap
 
 After, run `npm/yarn/expo start` to start the application.
 
-Click to open `http://localhost:19002` in your browser.
+Click to open `http://localhost:19002` (or similar links with different port numbers) in your browser.
 
 Switch connection to `tunnel` and wait for connection to be established.
 
 Scan the qr code in the bottom left corner using the expo go app on your phone.
+
+<hr>
+
+# Features implemented for testing in milestone 2
+
+## Validation
+
+## Verified
+- Phone number
+  18002789999
+
+- Link
+  www.ocbc.com/group/gateway
+
+- Email
+  iac_enquiry@iac.gov.sg
+
+## Scam
+- Phone number
+  +6589124786
+  
+- Link
+  www.ocbc-sg.com/signin
+  
+- Email
+  support@ocbcsg.co.com
