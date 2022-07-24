@@ -15,45 +15,59 @@ You may try submitting any repeated reports using the app
 
 # To run the application
 
-Ensure that you have `node`, `npm` and `expo-cli` installed and the Expo go app installed on your phone
+1. Ensure that you have `node`, `npm` and `expo-cli` installed.
 
-Pick a local directory and `clone` this repository with:
+2. Download the `Expo Go`  <img src='./images/expogo.png' style="width: 40px; height: 40px;">   app on your mobile phone.
+
+3. Pick a local directory and clone this repository with:
 
 `git clone https://github.com/NicholasChungJunJie/Orbital-Milestone.git`
 
-Once that is done, run `npm/yarn install` to install the dependencies in this application.
+4. Once that is done, run `npm install` to install the dependencies in this application.
 
-After, run `npm/yarn/expo start` to start the application.
+5. After, run `expo start` to start the application.
 
-Click to open `http://localhost:19002` (or similar links with different port numbers) in your browser.
+6. Go to the link in `Developer tools running on http://localhost:...` shown above the QR code in your terminal, open it on your web browser.
 
-Switch connection to `tunnel` and wait for connection to be established.
+7. Switch `Connection` to `Tunnel`.
 
-Scan the qr code in the bottom left corner using the expo go app on your phone.
+8. Open up your `Expo Go` app on your mobile device and use the in-app QR code scanner to scan the QR code on the web browser site `http://localhost:...` (from step 6).
+
+9. The app should download and launch for you to try out!
 
 <br>
 <hr>
 
 # Features implemented for testing in milestone 2
+# Test cases to try validation feature
 
-## Validation
+## Other contacts you may try
+https://www.sgdi.gov.sg/ministries
+https://www.sgdi.gov.sg/organs-of-state
+https://www.sgdi.gov.sg/other-organisations/police-station
+https://www.sgdi.gov.sg/other-organisations/manned-npps
+https://www.sgdi.gov.sg/other-organisations/redesigned-npps
 
-## Verified
-- Phone number
-  18002789999
+## Official contacts
 
-- Link
-  www.ocbc.com/group/gateway
+1. DBS official ibanking login
+    - internet-banking.dbs.com.sg
 
-- Email
-  iac_enquiry@iac.gov.sg
+2. INDUSTRIAL ARBITRATION COURT official email
+    - iac_enquiry@iac.gov.sg
+
+3. WOODLANDS DIVISION Bukit Panjang North Neighbourhood Police Post
+    - 18003689999
+
+
 
 ## Scam
-- Phone number
-  +6589124786
-  
-- Link
-  www.ocbc-sg.com/signin
-  
-- Email
-  support@ocbcsg.co.com
+
+1. Fake OCBC email
+    - support@ocbcsg.co.com
+
+2. Fake OCBC sign in page
+    - www.ocbc-sg.com/signin
+
+3. Phone number used by scammers
+    - +6589124786
