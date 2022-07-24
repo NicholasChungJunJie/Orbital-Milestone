@@ -43,9 +43,13 @@ You may try submitting any repeated reports using the app
 
 ## Other contacts you may try
 https://www.sgdi.gov.sg/ministries
+<br>
 https://www.sgdi.gov.sg/organs-of-state
+<br>
 https://www.sgdi.gov.sg/other-organisations/police-station
+<br>
 https://www.sgdi.gov.sg/other-organisations/manned-npps
+<br>
 https://www.sgdi.gov.sg/other-organisations/redesigned-npps
 
 ## Official contacts
