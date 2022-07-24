@@ -8,8 +8,9 @@ There are several types of form you may submit using the dropdown menu
 
 ## Blocking of repeated reports
 
-You may try submitted any repeated reports using the app
+You may try submitting any repeated reports using the app
 
+<br>
 <hr>
 
 # To run the application
@@ -30,6 +31,7 @@ Switch connection to `tunnel` and wait for connection to be established.
 
 Scan the qr code in the bottom left corner using the expo go app on your phone.
 
+<br>
 <hr>
 
 # Features implemented for testing in milestone 2
