@@ -10,6 +10,19 @@ There are several types of form you may submit using the dropdown menu
 
 You may try submitting any repeated reports using the app
 
+## Further testing of our validation feature (follow up from milestone 2)
+You may try checking contacts from any of these entities
+<br>
+https://www.sgdi.gov.sg/ministries
+<br>
+https://www.sgdi.gov.sg/organs-of-state
+<br>
+https://www.sgdi.gov.sg/other-organisations/police-station
+<br>
+https://www.sgdi.gov.sg/other-organisations/manned-npps
+<br>
+https://www.sgdi.gov.sg/other-organisations/redesigned-npps
+
 <br>
 <hr>
 
@@ -40,17 +53,6 @@ You may try submitting any repeated reports using the app
 
 # Features implemented for testing in milestone 2
 # Test cases to try validation feature
-
-## Other contacts you may try
-https://www.sgdi.gov.sg/ministries
-<br>
-https://www.sgdi.gov.sg/organs-of-state
-<br>
-https://www.sgdi.gov.sg/other-organisations/police-station
-<br>
-https://www.sgdi.gov.sg/other-organisations/manned-npps
-<br>
-https://www.sgdi.gov.sg/other-organisations/redesigned-npps
 
 ## Official contacts
 
